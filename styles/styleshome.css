@@ -75,6 +75,7 @@ body {
         border: 1px solid black;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1.2rem;
     }
 
     .input-texto-form select {
@@ -84,6 +85,7 @@ body {
         border: none;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1.2rem;
     }
     
     .input p {
@@ -272,6 +274,7 @@ body {
         border: 1px solid black;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1.2rem;
     }
 
     .input-texto-form select {
@@ -281,6 +284,7 @@ body {
         border: none;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1.2rem;
     }
     
     .input p {
@@ -470,6 +474,7 @@ body {
         border: 1px solid black;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1rem;
     }
 
     .input-texto-form select {
@@ -479,6 +484,7 @@ body {
         border: none;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1rem;
     }
     
     .input p {
@@ -668,6 +674,7 @@ body {
         border: 1px solid black;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1rem;
     }
 
     .input-texto-form select {
@@ -677,6 +684,7 @@ body {
         border: none;
         margin-top: .1rem;
         font-family: 'Poppins';
+        font-size: 1rem;
     }
     
     .input p {
@@ -1007,8 +1015,3 @@ body {
 
 
 }
-
-
-
-
-

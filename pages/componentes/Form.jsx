@@ -9,15 +9,9 @@ const Form = () => {
             <form className='formulario' action="" method="post">
             <div className="input-texto-form">
                 <div className="alinhar-texto-form">
-                <p>Nome</p>  
+                <p>Nome completo</p>  
                 </div>          
                 <input type="text" name="" id="" required placeholder='nome' />
-            </div>
-            <div className="input-texto-form">
-            <div className="alinhar-texto-form">
-                <p>Sobrenome</p>  
-                </div>           
-                <input type="text" name="" id="" required placeholder='Sobrenome' />
             </div>
             <div className="input-texto-form">
             <div className="alinhar-texto-form">

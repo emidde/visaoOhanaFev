@@ -36,7 +36,7 @@ const Form = () => {
                 <option value="">Deep</option>
                 <option value="">Eternal</option>
                 <option value="">Flower</option>
-                <option value="">Freedom</option>
+                <option value="">Harvest</option>
                 <option value="">Hadassa</option>
                 <option value="">Hope</option>
                 <option value="">Nobre</option>

@@ -11,7 +11,7 @@ const Form = () => {
                 <div className="alinhar-texto-form">
                 <p>Nome completo</p>  
                 </div>          
-                <input type="text" name="" id="" required placeholder='nome' />
+                <input type="text" name="" id="" required placeholder='Nome' />
             </div>
             <div className="input-texto-form">
             <div className="alinhar-texto-form">

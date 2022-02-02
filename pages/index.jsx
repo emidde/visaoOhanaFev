@@ -12,9 +12,7 @@ export default function Home() {
   return ( 
   <>
   <div className="body">
-  <div className="head">
     <IndexPage />
-  </div>
   <div className="header">
          <Header /> 
   </div>

@@ -12,12 +12,12 @@ const ConteudoRound6 = () => {
     return (
     <div className="conteudo-evento-round-6">
         <div className="texto-conteudo-round-6">
-            <p>Veja como foi o nosso evento com tema Round 6</p>
+            <p>Esse foi um dos nossos últimos eventos</p>
         </div>
         <div className="conteudo-imagem-texto-round-6">
              <div className="banner-round-6">
                 <div className="texto-banner">
-                    <p className="texto-banner">Seja bem vindo ao Round 6</p>
+                    <p className="texto-banner">Veja como foi o Round 6</p>
                 </div>
             <div className="imagem-banner-round-6">
                 <Image className='imagemain'

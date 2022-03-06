@@ -19,13 +19,18 @@ body {
 
     .header {
         text-align: center;
-        padding-top: 10px;
+        padding-top: 20px;
         text-align: center;
+    }
+
+    .main{
+        margin-top: 2rem;
     }
 
     .alinhar-conteudo {
         display: inline-flex;
     }
+
 
     .conteudomain {
         padding-top: 10px;
@@ -34,9 +39,10 @@ body {
         text-align: center;
     }
     
-    .imagemain {
+    /*.imagemain {
         -webkit-mask-image: linear-gradient(to right, transparent 38%, black 100%);
     }
+    */
     
     .conteudomain p {
     text-align: left;
@@ -51,11 +57,12 @@ body {
     margin-top: 4rem;
     font-size: 2rem;
     font-family: 'Poppins';
+    font-weight: 700;
     }
     
     .form-inscricao {
         display: block;
-        color: #fbe179;
+        color: white;
         margin-top: 8rem;
         font-family: 'Poppins';
     }
@@ -134,7 +141,7 @@ body {
     }
     
     .Button button {
-        background-color: #fe5089;
+        background: linear-gradient(7deg, #220331, #f626ca);
         height: 3.5rem;
         width: 12rem;
         border-radius: 1rem;
@@ -157,6 +164,7 @@ body {
 
     .conteudo-evento-round-6 {
         text-align: center;
+        display: none;
     }
 
     .texto-conteudo-round-6 {
@@ -200,6 +208,7 @@ body {
     }
 
     .conteudo-ohana {
+        display: none;
         text-align: center;
     }
     
@@ -211,6 +220,11 @@ body {
 
     .ohanavisao {
         margin-bottom: 4rem;
+    }
+
+    .banner-verso {
+        margin-top: 3rem;
+        padding-top: 2rem;
     }
 
 
@@ -233,9 +247,10 @@ body {
         text-align: center;
     }
     
-    .imagemain {
+    /*.imagemain {
         -webkit-mask-image: linear-gradient(to right, transparent 38%, black 100%);
     }
+    */
     
     .conteudomain p {
     text-align: left;
@@ -251,11 +266,12 @@ body {
     margin-top: 4rem;
     font-size: 1.4rem;
     font-family: 'Poppins';
+    font-weight: 700;
     }
     
     .form-inscricao {
         display: block;
-        color: #fbe179;
+        color: white;
         margin-top: 8rem;
         font-family: 'Poppins';
     }
@@ -334,7 +350,7 @@ body {
     }
     
     .Button button {
-        background-color: #fe5089;
+        background: linear-gradient(7deg, #220331, #f626ca);
         height: 3.5rem;
         width: 12rem;
         border-radius: 1rem;
@@ -357,6 +373,7 @@ body {
 
     .conteudo-evento-round-6 {
         text-align: center;
+        display: none;
     }
 
     .texto-conteudo-round-6 {
@@ -400,6 +417,7 @@ body {
     }
 
     .conteudo-ohana {
+        display: none;
         text-align: center;
     }
     
@@ -413,6 +431,11 @@ body {
         margin-bottom: 4rem;
     }
 
+    .banner-verso {
+        margin-top: 3rem;
+        padding-top: 2rem;
+    }
+
 
 }
 
@@ -420,7 +443,7 @@ body {
 
     .header {
         text-align: center;
-        padding-top: 10px;
+        padding-top: 20px;
         text-align: center;
     }
 
@@ -435,9 +458,10 @@ body {
         text-align: center;
     }
     
-    .imagemain {
+    /*.imagemain {
         -webkit-mask-image: linear-gradient(to right, transparent 38%, black 100%);
     }
+    */
     
     .conteudomain p {
     text-align: left;
@@ -452,11 +476,12 @@ body {
     margin-top: 4rem;
     font-size: 1.5rem;
     font-family: 'Poppins';
+    font-weight: 700;
     }
     
     .form-inscricao {
         display: block;
-        color: #fbe179;
+        color: white;
         margin-top: 8rem;
         font-family: 'Poppins';
     }
@@ -535,7 +560,7 @@ body {
     }
     
     .Button button {
-        background-color: #fe5089;
+        background: linear-gradient(7deg, #220331, #f626ca);
         height: 3.5rem;
         width: 12rem;
         border-radius: 1rem;
@@ -558,6 +583,7 @@ body {
 
     .conteudo-evento-round-6 {
         text-align: center;
+        display: none;
     }
 
     .texto-conteudo-round-6 {
@@ -601,6 +627,7 @@ body {
     }
 
     .conteudo-ohana {
+        display: none;
         text-align: center;
     }
     
@@ -612,6 +639,10 @@ body {
     .ohanavisao {
         margin-bottom: 4rem;
     }
+    .banner-verso {
+        margin-top: 3rem;
+        padding-top: 2rem;
+    }
 
 
 }
@@ -620,7 +651,7 @@ body {
 
     .header {
         text-align: center;
-        padding-top: 10px;
+        padding-top: 20px;
         text-align: center;
     }
 
@@ -634,11 +665,10 @@ body {
         font-family: 'Poppins';
         text-align: center;
     }
-    
-    .imagemain {
+    /*.imagemain {
         -webkit-mask-image: linear-gradient(to right, transparent 38%, black 100%);
     }
-    
+    */
     .conteudomain p {
         text-align: left;
         position: absolute;
@@ -653,11 +683,12 @@ body {
     font-size: 1rem;
     font-family: 'Poppins';
     margin: 0 2rem 0 2rem;
+    font-weight: 700;
     }
     
     .form-inscricao {
         display: block;
-        color: #fbe179;
+        color: white;
         margin-top: 8rem;
         font-family: 'Poppins';
     }
@@ -736,7 +767,7 @@ body {
     }
     
     .Button button {
-        background-color: #fe5089;
+        background: linear-gradient(7deg, #220331, #f626ca);
         height: 3.5rem;
         width: 12rem;
         border-radius: 1rem;
@@ -759,6 +790,7 @@ body {
 
     .conteudo-evento-round-6 {
         text-align: center;
+        display: none;
     }
 
     .texto-conteudo-round-6 {
@@ -805,6 +837,7 @@ body {
     }
 
     .conteudo-ohana {
+        display: none;
         text-align: center;
     }
     
@@ -815,6 +848,11 @@ body {
 
     .ohanavisao {
         margin-bottom: 4rem;
+    }
+
+    .banner-verso {
+        margin-top: 3rem;
+        padding-top: 2rem;
     }
 
 

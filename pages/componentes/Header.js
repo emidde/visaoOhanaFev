@@ -1,14 +1,14 @@
 import React from 'react';
 import Image from 'next/image';
-import logovisao from '../img/logovisao.png';
+import logovisao from '../img/logotipo.png';
 
 
 const Header = () => {
     return (
         <Image
         src={logovisao}
-        height={130}
-        width={250}
+        height={80}
+        width={190}
         />
     );
 };

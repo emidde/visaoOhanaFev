@@ -1,16 +1,23 @@
 import React from 'react';
+import conteudomain from '../img/background-form1.png'
 import Image from 'next/image';
-import logovisao from '../img/logotipo.png';
 
-
-const Header = () => {
+const Main = () => {
     return (
-        <Image
-        src={logovisao}
-        height={80}
-        width={190}
-        />
-    );
-};
+            
+            <div className='alinhar-conteudo'>
+                <div className='conteudomain'>
+                     <div className='texto1'>
+            </div>
+            <div className='imagemfundo'>
+                <Image className='imagemain'
+                src={conteudomain}
+            />   
+            </div>
+        </div>   
+    </div>
 
-export default Header;
+    )
+}
+
+export default Main;

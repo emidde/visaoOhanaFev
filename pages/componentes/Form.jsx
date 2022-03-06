@@ -1,10 +1,14 @@
 import React from 'react';
+import { useRouter } from 'next/router';
+
+
 
 const Form = () => {
+    const router = useRouter()
     return (
         <div className='form-inscricao'>
             <div className='texto2'>
-            <p className='textomain2'>A sua festa começa preenchendo este formulário abaixo</p>
+            <p className='textomain2'>Preencha o formulário abaixo para participar :)</p>
             </div>
             <form className='formulario' action="https://docs.google.com/forms/d/e/1FAIpQLSdWQU_dpxcTYdyi3LK1ujoMGTn0ekUsE9OGB1GKRuVSy1vsUA/formResponse" 
             method="post">
@@ -46,7 +50,7 @@ const Form = () => {
             </div>
             <div className='Button'>
             <button>
-                <a type='submit'>
+                <a type='submit' href='https://www.google.com.br'>
                     Quero participar!
                 </a>
             </button>

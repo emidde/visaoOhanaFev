@@ -1,23 +1,16 @@
-import React from 'react';
-import conteudomain from '../img/background-form1.png'
-import Image from 'next/image';
+import Head from 'next/head'
 
-const Main = () => {
-    return (
-            
-            <div className='alinhar-conteudo'>
-                <div className='conteudomain'>
-                     <div className='texto1'>
-            </div>
-            <div className='imagemfundo'>
-                <Image className='imagemain'
-                src={conteudomain}
-            />   
-            </div>
-        </div>   
+function IndexPage() {
+  return (
+    <div>
+      <Head>
+        <title>Formulário Visão</title>
+        <meta name="description" content="Formulario de inscrição para o evento Ohana no dia 12/02/2021" />
+        <meta name="author" content="Creative vision" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no" />
+      </Head>
     </div>
-
-    )
+  )
 }
 
-export default Main;
+export default IndexPage;;

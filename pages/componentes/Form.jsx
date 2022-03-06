@@ -50,7 +50,7 @@ const Form = () => {
             </div>
             <div className='Button'>
             <button>
-                <a type='submit' href='https://www.google.com.br'>
+                <a type='submit'>
                     Quero participar!
                 </a>
             </button>
